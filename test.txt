@@ -4,4 +4,5 @@ cung lam viec 2 nguoi
 neu co gi thay doi hay cung toi chien dau
 that la hay, hay hop tac
 cam thay that la thu vi
+ket thu o day duoc roi
 
