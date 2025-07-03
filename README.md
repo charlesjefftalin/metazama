@@ -1,0 +1,2 @@
+# metazama
+lam cho meta
