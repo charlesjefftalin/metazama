@@ -3,4 +3,5 @@ thu nghiem so 1
 cung lam viec 2 nguoi
 neu co gi thay doi hay cung toi chien dau
 that la hay, hay hop tac
+cam thay that la thu vi
 
