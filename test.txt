@@ -1,4 +1,5 @@
 day la nhung dong code dau tien cua du an, chuan bi 1 tuong lai tuoi sang
 thu nghiem so 1
 cung lam viec 2 nguoi
+neu co gi thay doi hay cung toi chien dau
 
